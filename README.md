@@ -1,20 +1,20 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">E aeee, blz?!</h1>
 
 ###
 
-<p align="left">My name is Victor ,</p>
+<p align="left"> Sou o Victor xd </p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
-<p align="left">✨ I’m currently learning JS</p>
+<p align="left">Comecei a aprender a programar no final de 2024, estou aprendendo JS e em busca do AWS Certified Cloud Practitioner </p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Tenho conhecimento sobre:</h2>
 
 ###
 
