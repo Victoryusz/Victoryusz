@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"> Me chamo Victor Hugo e tenho 26y.📸</p>
+<p align="left"> Me chamo Victor Hugo e tenho 26y.🔥</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Comecei a aprender a sobre programação no final de 2024, aprendi o basico de HTML e CSS em 2022, estou aprendendo JS e em busca do AWS Certified Cloud Practitioner!☁💻 </p>
+<p align="left">Aprendi o básico de HTML e CSS em 2022. Desde o final de 2024, estou estudando programação, focado em JS e buscando a certificação AWS Cloud Practitioner.🐦‍🔥 </p>
 
 ###
 
