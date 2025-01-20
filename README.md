@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Comecei a aprender a sobre programação no final de 2024, aprendi o basico de HTML e CSS em 2022, estou aprendendo JS e em busca do AWS Certified Cloud Practitioner!🐦‍🔥 </p>
+<p align="left">Comecei a aprender a sobre programação no final de 2024, aprendi o basico de HTML e CSS em 2022, estou aprendendo JS e em busca do AWS Certified Cloud Practitioner!☁💻 </p>
 
 ###
 
