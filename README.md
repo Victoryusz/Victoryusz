@@ -13,8 +13,10 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTBoaHNybGd3amJhenZnYjMxeTF0MHJ5dXp6bmxjYmhmMThnNGFkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjR3YjVkc2RwcjNmaGUzc3poeXg0cTB5emF3cmE3dGhnYTVzdXFvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6OrCT1jVbonHG/giphy.gif"  />
 </div>
 
 ###
@@ -23,7 +25,7 @@
 
 ###
 
-<p align="left">Aprendi o básico de HTML e CSS em 2022. Desde o final de 2024, estou estudando programação, focado em JS e buscando a certificação AWS Cloud Practitioner.⚡</p>
+<p align="left">Desenvolvedor em formação 💻 | HTML, CSS (2022) | Foco atual: JavaScript & Terraform | Em busca da certificação AWS Cloud Practitioner 🚀</p>
 
 ###
 
@@ -33,6 +35,8 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
