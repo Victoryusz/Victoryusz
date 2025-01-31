@@ -29,7 +29,7 @@
 ###
 
 <div align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=Hugo4strong@gmail.com&su=Convite%20para%20Entrevista%20de%20Emprego&body=Prezado%20Hugo,%0A%0AEstamos%20impressionados%20com%20seu%20perfil%20e%20gostaríamos%20de%20convidá-lo%20para%20uma%20entrevista%20para%20a%20vaga%20em%20nossa%20empresa.%0A%0AData:%20[INSIRA%20A%20DATA]%0AHorário:%20[INSIRA%20O%20HORÁRIO]%0ALocal:%20[INSIRA%20O%20LOCAL%20OU%20LINK%20PARA%20ENTREVISTA%20ONLINE]%0A%0APor%20favor,%20confirme%20sua%20disponibilidade%20respondendo%20a%20este%20e-mail.%0A%0AAtenciosamente,%0A[SEU%20NOME]%0A[SEU%20CARGO]%0A[EMPRESA]" target="_blank">
+  <a href="mailto:Hugo4strong@gmail.com?subject=Convite%20para%20Entrevista%20de%20Emprego&body=Prezado%20Hugo,%0A%0AEstamos%20impressionados%20com%20seu%20perfil%20e%20gostaríamos%20de%20convidá-lo%20para%20uma%20entrevista%20para%20a%20vaga%20em%20nossa%20empresa.%0A%0AData:%20[INSIRA%20A%20DATA]%0AHorário:%20[INSIRA%20O%20HORÁRIO]%0ALocal:%20[INSIRA%20O%20LOCAL%20OU%20LINK%20PARA%20ENTREVISTA%20ONLINE]%0A%0APor%20favor,%20confirme%20sua%20disponibilidade%20respondendo%20a%20este%20e-mail.%0A%0AAtenciosamente,%0A[SEU%20NOME]%0A[SEU%20CARGO]%0A[EMPRESA]" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Contato%20pelo%20Gmail&logo=gmail&label=&color=DE0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/victor-hugo-323025158/" target="_blank">
