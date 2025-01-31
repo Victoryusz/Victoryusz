@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Desenvolvedor em formação (ADS)💻 | HTML, CSS (2022) | Foco atual: JavaScript & Terraform | Em busca da certificação AWS Cloud Practitioner 🚀</p>
+<p align="left">Desenvolvedor em formação (ADS)💻 | HTML, CSS (2022) | Foco atual: TERRAFORM | Em busca da certificação AWS Cloud Practitioner 🚀</p>
 
 ###
 
