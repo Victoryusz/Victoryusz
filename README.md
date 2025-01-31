@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Desenvolvedor em formação 💻 | HTML, CSS (2022) | Foco atual: Em busca da certificação AWS Cloud Practitioner aprendendo TERRAFORM 🚀</p>
+<p align="left">Desenvolvedor em formação 💻 | HTML, CSS (2022) | Foco atual: JavaScript & Terraform | Em busca da certificação AWS Cloud Practitioner 🚀</p>
 
 ###
 
@@ -43,8 +43,8 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/vick1st">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=vick1st&count=5" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/314e2rw2a7iruxch45ytorutdgoa">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=314e2rw2a7iruxch45ytorutdgoa&count=2&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
