@@ -1,16 +1,16 @@
-<h1 align="center">Heey, blz!! 👋</h1>
+<h1 align="center">Heey, blz!!</h1>
 
 ###
 
-<h3 align="left">🧬About Me</h3>
+<h3 align="left">🧬 About Me</h3>
 
 ###
 
-<p align="left">Desenvolvedor em formação 💻 | HTML, CSS (2022) | Foco atual: JavaScript & Terraform | Em busca da certificação AWS Cloud Practitioner 🚀</p>
+<p align="left">Desenvolvedor em formação (ADS)💻 | HTML, CSS (2022) | Foco atual: JavaScript & Terraform | Em busca da certificação AWS Cloud Practitioner 🚀</p>
 
 ###
 
-<h3 align="left">🥷Language and tools</h3>
+<h3 align="left">🥷 Language and tools</h3>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<h3 align="left">My Stats</h3>
+<h3 align="left">📧 Contact me</h3>
 
 ###
 
@@ -37,14 +37,6 @@
   </a>
   <a href="https://www.instagram.com/vick1st/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=8E0DFF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/314e2rw2a7iruxch45ytorutdgoa">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=314e2rw2a7iruxch45ytorutdgoa&count=2&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
